@@ -1,0 +1,10 @@
+numpy
+pandas
+polars==0.13.47
+lightgbm
+tqdm
+scikit-learn
+matplotlib
+transformers
+datasets
+tokenizers
